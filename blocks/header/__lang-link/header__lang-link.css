@@ -6,6 +6,10 @@
   line-height: calc(28/24);
 }
 
+.header__lang-link:hover {
+  opacity: 0.8;
+}
+
 .header__lang-link:nth-child(2) {
   margin-right: 0;
 }
